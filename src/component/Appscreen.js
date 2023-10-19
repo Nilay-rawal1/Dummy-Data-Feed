@@ -11,7 +11,7 @@ function Screen() {
     }, []);
 
     useEffect(() => {
-        document.title = 'Task 4';
+        document.title = 'Dummy Data';
     }, []);
     
     const mapping = () => {
